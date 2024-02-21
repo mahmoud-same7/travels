@@ -142,7 +142,7 @@ const Home = () => {
       </Container>
 
       <div
-        class="eg-widget"
+        className="eg-widget"
         data-widget="search"
         data-program="us-expedia"
         data-lobs="stays,flights,cars"
